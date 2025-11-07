@@ -1,6 +1,6 @@
 marija ima 0 pobjeda i 0 poraza!
 mia ima 0 pobjeda i 0 poraza!
 
-O . O
+X . O
 . X O
 . . X
