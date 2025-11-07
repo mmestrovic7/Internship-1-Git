@@ -1,5 +1,5 @@
-marija ima 0 pobjeda i 0 poraza!
-mia ima 0 pobjeda i 0 poraza!
+marija ima 2 pobjeda i 1 poraza!
+mia ima 1 pobjeda i 2 poraza!
 
 . . O
 . O X
