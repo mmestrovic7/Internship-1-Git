@@ -3,4 +3,4 @@ mia ima 0 pobjeda i 0 poraza!
 
 . . .
 . O X
-. . .
+. . X
